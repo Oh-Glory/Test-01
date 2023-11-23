@@ -1,0 +1,566 @@
+<!doctype html>
+<html lang="en">
+
+
+<!-- Mirrored from templates.iqonic.design/qloud/html/index-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 30 Mar 2023 17:36:27 GMT -->
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="Brookes Software Development Company" name="description" />
+    <meta content="Brookes Professional Software" name="author" />
+    <title>Brookes Software Development Company</title>
+    <meta name="google-site-verification" content="8itHpRbnFlTGohTouKWJISK338ctCJ_7Kg0JlbrVV3s" />
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="{{asset('assets/images/faviconn.png')}}" />
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="{{asset('assets/css/bootstrap.min.css')}}">
+    <!-- REVOLUTION STYLE SHEETS -->
+    <link rel="stylesheet" type="text/css" href="{{asset('assets/revslider/css/rs6.css')}}">
+    <!-- Typography CSS -->
+    <link rel="stylesheet" href="{{asset('assets/css/typography.css')}}">
+    <!-- Style CSS -->
+    <link rel='stylesheet' href="{{asset('assets/css/qloud-style.css')}}" />
+    <!-- Responsive CSS -->
+    <link rel="stylesheet" href="{{asset('assets/css/responsive.css')}}">
+    <!-- <style>
+
+        Media query for screens with a minimum width of 768 pixels (typical for desktops)
+         @media only screen and (min-width: 768px) {
+         Styles specific to desktop screens
+         .iq-icon-box-style-2{
+             height: 200px;
+ 
+             }
+       
+         }
+        
+     </style> -->
+</head>
+
+<body>
+       <!-- loading -->
+    <div id="loading">
+        <div id="loading-center">
+            <div class="load-img">
+                <img src="{{asset('assets/images/brookes load.gif')}}" alt="loader">
+            </div>
+        </div>
+    </div>
+    <!-- loading End -->
+    <!-- Header -->
+    <header id="main-header" class="header-main header2">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <nav class="navbar navbar-expand-lg navbar-light">
+                        <a class="navbar-brand" href="index.html">
+                            <img class="img-fluid" src="{{asset('assets/images/Brookes logo large.png')}}" alt="img" >
+                        </a>
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="menu-btn d-inline-block" id="menu-btn">
+                        <span class="line"></span>
+                            <span class="line"></span>
+                            <span class="line"></span>
+                            </span>
+                            <span class="ion-navicon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                            <ul class="navbar-nav mr-auto w-100 justify-content-end">
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link active" href="index.html">
+                                 Home
+                              </a>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link" href="{{route('about_us')}}">
+                                       About Us
+                                    </a>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link" href="services.html" >
+                                 Services
+                              </a>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link" href="our-product.html">
+                                 Our Products
+                                </a>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link" href="contact-us.html" >
+                                 Contact Us
+                              </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- Header End -->
+    <!-- START qloud3 REVOLUTION SLIDER 6.1.8 -->
+    <p class="rs-p-wp-fix"></p>
+    <rs-module-wrap id="rev_slider_3_1_wrapper" data-alias="qloud3" data-source="gallery" style="background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
+        <rs-module id="rev_slider_3_1" style="display:none;" data-version="6.1.8">
+            <rs-slides>
+                <rs-slide data-key="rs-3" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+                    <img src="{{asset('assets/revslider/assets/qbanner1.png')}}" alt="QLOUD" title="qbanner1" width="1600" height="867" data-parallax="off" class="rev-slidebg" data-no-retina>
+                    <!--
+      -->
+                    <rs-layer id="slider-3-slide-3-layer-0" class="textgyreadventor" data-type="text" data-color="#142149" data-rsp_ch="on" data-xy="xo:135px,96px,72px,15px;y:m;yo:-120px,-85px,-187px,-198px;" data-text="w:normal;s:60,42,36,36;l:80,56,50,45;fw:700;" data-frame_0="x:-50,-35,-26,-16;" data-frame_1="st:600;sp:1000;sR:600;" data-frame_999="o:0;st:w;sR:7400;" style="z-index:8;">Brookes <span class="bluetext">Software<br>Innovative Solutions <br> for a</span> Digital Tomorrow
+                    </rs-layer>
+                    <!--
+      -->
+                    <rs-layer id="slider-3-slide-3-layer-1" data-type="text" data-color="#5e7290" data-rsp_ch="on" data-xy="xo:135px,96px,72px,21px;y:m;yo:40px,28px,-78px,-97px;" data-text="w:normal;s:16,11,18,12;l:32,22,30,24;" data-frame_0="x:-50,-35,-26,-16;" data-frame_1="st:900;sp:1000;sR:900;" data-frame_999="o:0;st:w;sR:7100;" style="z-index:9;">Transforming Businesses with Tailored Software Solutions Crafted for
+                        <br>Sustainable Growth and Exceptional Performance.
+                    </rs-layer>
+                    <!--
+      --><a id="slider-3-slide-3-layer-2" class="rs-layer iq-btn-round iq-button rev-btn" href="contact-us.html" target="_self" rel="nofollow" data-type="button" data-rsp_ch="on" data-xy="xo:135px,96px,72px,24px;y:m;yo:163px,115px,14px,-11px;" data-text="w:normal;s:18,16,16,16;l:18,16,20,20;" data-dim="h:50px;minh:0px,none,none,none;" data-padding="t:15,15,0,15;r:30;b:15,15,0,15;l:30;" data-border="bor:10px,10px,10px,10px;" data-frame_0="x:-50,-35,-26,-16;" data-frame_1="st:1200;sp:1000;sR:1200;" data-frame_999="o:0;st:w;sR:6800;" data-frame_hover="bgc:#0d1e67;bor:10px,10px,10px,10px;sp:100;e:Power1.easeInOut;bri:120%;" style="z-index:10;background-color:#007bfc;">Get in Touch
+      </a>
+                    <!--
+      -->
+                    <rs-layer id="slider-3-slide-3-layer-3" class="rs-pxl-1" data-type="image" data-rsp_ch="on" data-xy="x:r;xo:-146px,-36px,73px,7px;y:m;yo:-27px,67px,84px,81px;" data-text="w:normal;s:20,14,10,6;l:0,17,12,7;" data-dim="w:643px,388px,310px,248px;h:477px,288px,271px,184px;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="st:2000;sp:1000;sR:2000;" data-frame_999="o:0;st:w;sR:6000;" style="z-index:12;"><img src="revslider/assets/brookemg.jpg" alt="qloud" width="643" height="477" data-no-retina>
+                    </rs-layer>
+                    <!--
+      -->
+                    <!-- <rs-layer id="slider-3-slide-3-layer-4" data-type="image" data-rsp_ch="on" data-xy="x:r;xo:60px,42px,195px,41px;y:b;yo:89px,63px,9px,20px;" data-text="w:normal;s:20,14,10,6;l:0,17,12,7;" data-dim="w:624px,443px,350px,370px;h:346px,246px,190px,201px;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="st:2500;sp:1000;sR:2500;" data-frame_999="o:0;st:w;sR:5500;" style="z-index:11;"><img src="revslider/assets/b2.png" alt="qloud" width="624" height="346" data-no-retina> -->
+                    </rs-layer>
+                    <!--
+      -->
+                    <!-- <rs-layer id="slider-3-slide-3-layer-5" data-type="text" data-color="#142149" data-rsp_ch="on" data-xy="xo:320px,250px,235px,184px;y:m;yo:163px,115px,15px,-4px;" data-text="w:normal;s:20,16,16,9;l:50,50,37,22;fw:400,500,500,500;" data-vbility="t,t,t,f" data-frame_0="x:-50,-35,-26,-16;" data-frame_1="st:1600;sp:1000;sR:1600;" data-frame_999="o:0;st:w;sR:6400;" style="z-index:13;"><a class="popup-youtube " href="https://www.youtube.com/watch?v=8AZ8GqW5iak"><i class="fas fa-play mr-2 bluetext"></i> Watch Video</a> -->
+                    </rs-layer>
+                    <!--
+      -->
+                    <!-- <rs-layer id="slider-3-slide-3-layer-6" data-type="text" data-color="#142149" data-rsp_ch="on" data-xy="xo:135px,90px,76px,46px;y:b;yo:150px,170px,222px,136px;" data-text="w:normal;s:18,12,9,5;l:25,17,12,7;" data-dim="h:auto,20px,15px,9px;" data-vbility="t,t,f,f" data-frame_0="x:-50,-35,-26,-16;" data-frame_1="st:2200;sp:1000;sR:2200;" data-frame_999="o:0;st:w;sR:5800;" style="z-index:14;"><b>Free 14-Day Trial -</b> Join over 50,000 websites already using -->
+                    </rs-layer>
+                    <!--
+      -->
+                </rs-slide>
+            </rs-slides>
+            <rs-progress class="rs-bottom" style="visibility: hidden !important;"></rs-progress>
+        </rs-module>
+        <script>
+            if (typeof revslider_showDoubleJqueryError === "undefined") {
+                function revslider_showDoubleJqueryError(sliderID) {
+                    var err = "<div class='rs_error_message_box'>";
+                    err += "<div class='rs_error_message_oops'>Oops...</div>";
+                    err += "<div class='rs_error_message_content'>";
+                    err += "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
+                    err += "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
+                    err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
+                    err += "</div>";
+                    err += "</div>";
+                    jQuery(sliderID).show().html(err);
+                }
+            }
+        </script>
+    </rs-module-wrap>
+    <!-- END REVOLUTION SLIDER -->
+    <!-- Main-Content Start -->
+    <div class="main-content">
+        <!-- Icon-box Start -->
+        <section class="icon-box-top pt-0 pb-0">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-12 mb-lg-0 mb-5">
+                        <div class="iq-icon-box iq-icon-box-style-2  active wow fadeInUp" style="height: 200px;">
+                            <div class="icon-box-img">
+                                <img src="{{asset('assets/images/icon-box/07.png')}}" class="img-fluid" alt="icon-box" loading="lazy">
+                            </div>
+                            <div class="icon-box-content">
+                                <h5 class="icon-box-title"><a href="services.html">200+ Happy Customers</a>
+                           </h5>
+                                <p class="icon-box-desc">We've helped numerous clients achieve their digital aspirations with our bespoke software solutions.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 mb-lg-0 mb-5">
+                        <div class="iq-icon-box iq-icon-box-style-2  active wow fadeInUp" style="height: 200px;">
+                            <div class="icon-box-img">
+                                <img src="{{asset('assets/images/icon-box/08.png')}}" class="img-fluid" alt="icon-box" loading="lazy">
+                            </div>
+                            <div class="icon-box-content">
+                                <h5 class="icon-box-title"> <a href="services.html">100+ Software Developed</a>
+                           </h5>
+                                <p class="icon-box-desc">Our track record boasts a multitude of expertly crafted and deployed software solutions.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="iq-icon-box iq-icon-box-style-2  active wow fadeInUp">
+                            <div class="icon-box-img">
+                                <img src="{{asset('assets/images/icon-box/09.png')}}" class="img-fluid" alt="icon-box" loading="lazy">
+                            </div>
+                            <div class="icon-box-content">
+                                <h5 class="icon-box-title"> <a href="services.html">10+ Years of Development Experience</a>
+                           </h5>
+                                <p class="icon-box-desc">With years of expertise crafting innovative software solutions, the team of experts here at Brookes understand and can help meet your unique business needs.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <a id="slider-3-slide-3-layer-2" class="rs-layer iq-btn-round iq-button rev-btn" href="contact-us.html" target="_self" rel="nofollow" data-type="button" data-rsp_ch="on" data-xy="xo:135px,96px,72px,24px;y:m;yo:163px,115px,14px,-11px;" data-text="w:normal;s:18,16,16,16;l:18,16,20,20;" data-dim="h:50px;minh:0px,none,none,none;" data-padding="t:15,15,0,15;r:30;b:15,15,0,15;l:30;" data-border="bor:10px,10px,10px,10px;" data-frame_0="x:-50,-35,-26,-16;" data-frame_1="st:1200;sp:1000;sR:1200;" data-frame_999="o:0;st:w;sR:6800;" data-frame_hover="bgc:#0d1e67;bor:10px,10px,10px,10px;sp:100;e:Power1.easeInOut;bri:120%;" style="z-index:10;margin: 40px 0; background-color:#007bfc;">Get in Touch
+                </a>
+            </div>
+        </section>
+        <!-- Icon-box End -->
+        <!-- About Us Start -->
+        <section>
+            <!-- <img src="images/others/shape1.png" class="img-fluid shape-right" alt="QLOUD"> -->
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-sm-12 mb-lg-0 mb-5">
+                        <img src="images/others/pc.jpg" class="img-fluid" alt="others" loading="lazy">
+                    </div>
+                    <div class="col-lg-6 col-sm-12 ">
+                        <div class="iq-title-box iq-title-default iq-title-box-2">
+                            <div class="iq-title-icon">
+                            </div>
+                            <span class="iq-subtitle">About Us</span>
+                            <h2 class="iq-title">Innovative Solutions for a Digital Tomorrow</h2>
+                            <p class="iq-title-desc">BROOKES, headquartered in Abeokuta, Nigeria, is a leading software development company with a strong commitment to delivering exceptional <br> digital solutions tailored to businesses across the nation. </p>
+                        </div>
+                        <div class="iq-list  iq-two-column">
+                            <ul class="iq-list-with-icon">
+                                <li>
+                                    <i class="ion ion-checkmark-round"></i>Unmatched responsiveness to client needs
+                                </li>
+
+                                <li>
+                                    <i class="ion ion-checkmark-round"></i>In-depth industry experience across multiple sectors
+                                </li>
+
+                                <li>
+                                    <i class="ion ion-checkmark-round"></i>Dedication to delivering optimal and efficient results
+                                </li>
+
+                                <li>
+                                    <i class="ion ion-checkmark-round"></i>Customized software solutions crafted for each business
+                                </li>
+
+                                <li>
+                                    <i class="ion ion-checkmark-round"></i>Extensive experience catering to Government, Banking, Corporate, Telecom, and Media sectors
+                                </li>
+
+                                <!-- <li>
+                                    <i class="ion ion-checkmark-round"></i> Reviews Generation
+                                </li> -->
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- About Us End -->
+        <!-- Features Start -->
+        <section class="pt-0 iq-pb-70">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="text-center iq-title-box iq-title-default iq-title-box-2">
+                            <div class="iq-title-icon">
+                            </div>
+                            <span class="iq-subtitle">Features</span>
+                            <h2 class="iq-title">
+                                Our Feature Services </h2>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-md-12 mb-lg-0 mb-5">
+                        <div class="iq-icon-box iq-icon-box-style-8  text-center wow fadeInUp" data-wow-duration="0.6s">
+                            <div class="icon-box-img">
+                                <img src="{{asset('assets/images/icon-box/10.png')}}" class="img-fluid" title="01" alt="qloud"> </div>
+                            <div class="icon-box-content">
+                                <h5 class="icon-box-title"> <a href="services.html">Web Application Development and Support</a>
+                           </h5>
+
+                                <p class="icon-box-desc">Elevate your online presence with our tailored web applications. Let's build your software now.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-md-12 mb-lg-0 mb-5">
+                        <div class="iq-icon-box iq-icon-box-style-8  text-center wow fadeInUp" data-wow-duration="0.9s">
+                            <div class="icon-box-img">
+                                <img src="{{asset('assets/images/icon-box/11.png')}}" class="img-fluid" title="02" alt="qloud"> </div>
+                            <div class="icon-box-content">
+                                <h5 class="icon-box-title"> <a href="services.html">Mobile Application Development</a>
+                           </h5>
+
+                                <p class="icon-box-desc">Stay connected with your audience on the go with our cutting-edge mobile apps. Let's help you develop your app today.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-md-12">
+                        <div class="iq-icon-box iq-icon-box-style-8  text-center wow fadeInUp" data-wow-duration="1.2s">
+                            <div class="icon-box-img">
+                                <img src="{{asset('assets/images/icon-box/12.png')}}" class="img-fluid" title="03" alt="qloud"> </div>
+                            <div class="icon-box-content">
+                                <h5 class="icon-box-title"> <a href="services.html">API Development and Integrations</a>
+                           </h5>
+
+                                <p class="icon-box-desc">Seamlessly connect your systems with our expert API development and integration services.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-md-12">
+                        <div class="iq-icon-box iq-icon-box-style-8  text-center wow fadeInUp" data-wow-duration="1.5s">
+                            <div class="icon-box-img">
+                                <img src="{{asset('assets/images/icon-box/13.png')}}" class="img-fluid" title="04" alt="qloud"> </div>
+                            <div class="icon-box-content">
+                                <h5 class="icon-box-title"> <a href="services.html">Application Maintenance</a>
+                           </h5>
+
+                                <p class="icon-box-desc">Ensure seamless performance with our expert application maintenance services. Ensure my application's success.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-md-12 mb-lg-0 mb-5">
+                        <div class="iq-icon-box iq-icon-box-style-8  text-center wow fadeInUp" data-wow-duration="1.8s">
+                            <div class="icon-box-img">
+                                <img src="{{asset('assets/images/icon-box/14.png')}}" class="img-fluid" title="05" alt="qloud"> </div>
+                            <div class="icon-box-content">
+                                <h5 class="icon-box-title"> <a href="services.html">Additional Services</a>
+                           </h5>
+
+                                <p class="icon-box-desc">Optimize your operations with our payment system integration and reliable project outsourcing. Explore our offerings now.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-md-12 mb-lg-0 mb-5" style="text-align: center; margin-top: 60px;">
+                        <a id="slider-3-slide-3-layer-2" class="rs-layer iq-btn-round iq-button rev-btn" href="contact-us.html" target="_self" rel="nofollow" data-type="button" data-rsp_ch="on" data-xy="xo:135px,96px,72px,24px;y:m;yo:163px,115px,14px,-11px;" data-text="w:normal;s:18,16,16,16;l:18,16,20,20;" data-dim="h:50px;minh:0px,none,none,none;" data-padding="t:15,15,0,15;r:30;b:15,15,0,15;l:30;" data-border="bor:10px,10px,10px,10px;" data-frame_0="x:-50,-35,-26,-16;" data-frame_1="st:1200;sp:1000;sR:1200;" data-frame_999="o:0;st:w;sR:6800;" data-frame_hover="bgc:#0d1e67;bor:10px,10px,10px,10px;sp:100;e:Power1.easeInOut;bri:120%;" style="z-index:10;background-color:#007bfc;">Get in Touch
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        <!-- Features End -->
+        <!-- Client Start -->
+        <section class="iq-client-section pt-0">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-md-12 col-sm-12 align-self-center">
+                        <div class="iq-client iq-client-style-1  iq-has-shadow iq-has-grascale">
+                            <ul class="iq-client-col-3 iq-client-grid">
+                                <li>
+                                    <img src="{{asset('assets/images/client/IRS.jpeg')}}" class="img-fluid" alt="client-img" style="width: 50%;"/>
+                                </li>
+
+                                <li>
+                                    <img src="{{asset('assets/images/client/FUNAAB-Logo.png')}}" class="img-fluid" alt="client-img" style="width: 67%;" />
+                                </li>
+
+                                <li>
+                                    <img src="{{asset('assets/images/client/Rccg_logo.png')}}" class="img-fluid" alt="client-img" style="width: 50%;"/>
+                                </li>
+
+                                <li>
+                                    <img src="{{asset('assets/images/client/mortgagebank.png')}}" class="img-fluid" alt="client-img" style="width: 70%;"/>
+                                </li>
+
+                                <li>
+                                    <img src="{{asset('assets/images/client/IRS.jpeg')}}" class="img-fluid" alt="client-img" style="width: 50%;"/>
+                                </li>
+
+                                <li>
+                                    <img src="{{asset('assets/images/client/FUNAAB-Logo.png')}}" class="img-fluid" alt="client-img" style="width: 70%;"/>
+                                </li>
+
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-12 col-sm-12 align-self-center mt-5 mt-lg-0">
+                        <div class="client-box">
+                            <div class=" text-left iq-title-box iq-title-white iq-title-box-1">
+                                <div class="iq-title-icon">
+                                </div>
+                                <span class="iq-subtitle">Our Clients</span>
+                                <h4 class="iq-title">
+                     We have the<br> Privilege of working<br> with exceptional<br> customers.   </h4>
+
+                            </div>
+                            <div class="iq-btn-container">
+                                <a class="iq-button iq-btn-round d-inline" href="clients.html">
+                        View More
+                     </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <!-- Main-Content End -->
+    <!-- Footer Start -->
+    <footer id="contact" class=" iq-over-dark-90">
+        <!-- Address -->
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 col-sm-6 ">
+                        <div class="widget">
+                            <div class="textwidget ">
+                                <p><img class="mb-4 img-fluid" src="{{asset('assets/images/Group 24.png')}}" alt="qloud">
+                                    <br>Innovative Solutions for a Digital Tomorrow</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 mt-lg-0 mt-4">
+                        <div class="widget">
+                            <h4 class="footer-title ">Useful links</h4>
+                            <div class="menu-link">
+                                <ul id="menu-link-menu" class="menu">
+                                    <li> <a href="home.html">Home</a></li>
+                                    <!-- <li><a href="pricing-plan.html">Pricing Plan</a></li> -->
+                                    <li><a href="services.html">Services</a></li>
+                                    <li><a href="clients.html">Clients</a></li>
+                                    <li><a href="contact-us.html">Contact Us</a></li>
+                                 </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6 mt-lg-0 mt-4">
+                        <div class="widget">
+                            <h4 class="footer-title ">Contact Us</h4>
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <ul class="iq-contact">
+                                        <li>
+                                            <a><i class="fa fa-home"></i><span>4th floor, Kay Plaza, Oke-Ilewo, Abeokuta, Ogun State, Niegria.</span></a>
+                                        </li>
+                                        <li>
+                                            <a href="mailto:support@iqnonicthemes.com"><i class="fa fa-envelope"></i><span>brookestechnologies@gmail.com</span></a>
+                                        </li>
+                                        <li>
+                                            <a href="tel:+234 8161241827"><i class="fa fa-phone"></i><span>+234 8161241827</span></a>
+                                        </li>
+                                        <li>
+                                            <a href="tel:+234 8060202011"><i class="fa fa-phone"></i><span>+234 8060202011</span></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Address END -->
+        <div class="copyright-footer">
+            <div class="container">
+                <div class="pt-3 pb-3">
+                    <div class="row justify-content-between">
+                        <div class="col-lg-6 col-md-12 text-lg-left text-md-center text-center">
+                            <div class="social-icone">
+                                <ul>
+                                    <li class="d-inline"><a href="javascript:void(0)"><i class="fa fa-twitter"></i></a></li>
+                                    <li class="d-inline"><a href="javascript:void(0)"><i class="fa fa-instagram"></i></a></li>
+                                    <li class="d-inline"><a href="javascript:void(0)"><i class="fa fa-linkedin"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-12 text-lg-right text-md-center text-center">
+                            <span class="copyright">Copyright 2023 Brookes All Rights Reserved.</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- Footer End -->
+    <!-- back-to-top -->
+    <div id="back-to-top">
+        <a class="top" id="top" href="#top"> <i class="ion-ios-arrow-up"></i> </a>
+    </div>
+    <!-- back-to-top End -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="{{asset('assets/js/jquery-3.4.1.js')}}"></script>
+    <!-- jQuery  for scroll me js -->
+    <script src="{{asset('assets/js/jquery-min.js')}}"></script>
+    <!-- popper  -->
+    <script src="{{asset('assets/js/popper.min.js')}}"></script>
+    <!--  bootstrap -->
+    <script src="{{asset('assets/js/bootstrap.min.js')}}"></script>
+    <!-- Appear JavaScript -->
+    <script src="{{asset('assets/js/appear.js')}}"></script>
+
+    <!-- Jquery-migrate JavaScript -->
+    <script src="{{asset('assets/js/jquery-migrate.min.js')}}"></script>
+    <!-- Scripts JavaScript -->
+    <script src="{{asset('assets/js/scripts.js')}}"></script>
+    <!-- countdownTimer JavaScript -->
+    <script src="{{asset('assets/js/jQuery.countdownTimer.min.js')}}"></script>
+    <!-- Tox-progress JavaScript -->
+    <script src="{{asset('assets/js/tox-progress.min.js')}}"></script>
+    <!-- Timeline JavaScript -->
+    <script src="{{asset('assets/js/timeline.js')}}"></script>
+    <!-- Timeline min JavaScript -->
+    <script src="{{asset('assets/js/timeline.min.js')}}"></script>
+    <!-- Slick JavaScript -->
+    <script src="{{asset('assets/js/slick.min.js')}}"></script>
+    <!-- Popper JavaScript -->
+    <script src="{{asset('assets/js/popper.min.js')}}"></script>
+    <!-- Owl.carousel JavaScript -->
+    <script src="{{asset('assets/js/owl.carousel.min.js')}}"></script>
+    <!-- Countdown JavaScript -->
+    <script src="{{asset('assets/js/countdown.js')}}"></script>
+    <!-- Jquery.countTo JavaScript -->
+    <script src="{{asset('js/jquery.countTo.js')}}"></script>
+    <!-- Magnific-popup JavaScript -->
+    <script src="{{asset('assets/js/jquery.magnific-popup.min.js')}}"></script>
+    <!-- Isotope.pkgd.min JavaScript -->
+    <script src="{{asset('assets/js/isotope.pkgd.min.js')}}"></script>
+    <!-- Wow JavaScript -->
+    <script src="{{asset('assetsjs/wow.min.js')}}"></script>
+    <!--  Custom JavaScript -->
+    <script src="{{asset('assets/js/custom.js')}}"></script>
+    <!-- REVOLUTION JS FILES -->
+    <script src="{{asset('assets/revslider/js/revolution.tools.min.js')}}"></script>
+    <script src="{{asset('assets/revslider/js/rs6.min.js')}}"></script>
+    <script>
+        var revapi3,
+            tpj;
+        jQuery(function() {
+            tpj = jQuery;
+            if (tpj("#rev_slider_3_1").revolution == undefined) {
+                revslider_showDoubleJqueryError("#rev_slider_3_1");
+            } else {
+                revapi3 = tpj("#rev_slider_3_1").show().revolution({
+                    jsFileLocation: "js/",
+                    sliderLayout: "fullwidth",
+                    visibilityLevels: "1240,1024,778,480",
+                    gridwidth: "1440,1024,778,480",
+                    gridheight: "870,768,650,600",
+                    spinner: "spinner0",
+                    editorheight: "870,768,650,600",
+                    responsiveLevels: "1240,1024,778,480",
+                    disableProgressBar: "on",
+                    navigation: {
+                        onHoverStop: false
+                    },
+                    parallax: {
+                        levels: [5, 10, 15, 20, 25, 30, 35, 40, 45, 46, 47, 48, 49, 50, 51, 30],
+                        type: "mouse",
+                        origo: "slidercenter",
+                        speed: 0
+                    },
+                    fallbacks: {
+                        allowHTML5AutoPlayOnAndroid: true
+                    },
+                });
+            }
+        });
+    </script>
+</body>
+
+
+<!-- Mirrored from templates.iqonic.design/qloud/html/index-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 30 Mar 2023 17:36:37 GMT -->
+</html>
